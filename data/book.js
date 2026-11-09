@@ -1,0 +1,5 @@
+window.BOOK={key:'b2v2',short:'DELF B2',level:'B2',v:1,
+title:'DELF B2 tout public — Préparation interactive',
+desc:{ko:'「Le DELF B2 100% Réussite (2e version)」 교재 구성을 따라 듣기·읽기·쓰기·말하기와 모의고사 2회를 사이트에서 바로 풀고 점수를 확인하는 수업용 학습 사이트입니다.',en:'Interactive class site following the structure of “Le DELF B2 100% Réussite (2nd ed.)”: listening, reading, writing, speaking and 2 mock exams with instant scores.',fr:'Site interactif suivant la progression du manuel « Le DELF B2 100 % réussite » (2e éd.) : 4 compétences et 2 épreuves blanches, avec correction et score immédiats.'},
+footer:'Basé sur la progression de « Le DELF B2 100% Réussite » (Didier, 2e version) — contenus adaptés.',
+exam:[{p:'co',d:{ko:'약 30분 · 25점 · 문서 2개 (긴 문서 2회 듣기)',en:'≈30 min · 25 pts',fr:'≈ 30 min · 25 pts'}},{p:'ce',d:{ko:'1시간 · 25점 · 정보문/논증문',en:'1 h · 25 pts',fr:'1 h · 25 pts'}},{p:'pe',d:{ko:'1시간 · 25점 · 250단어 이상 논증 글',en:'1 h · 25 pts · 250+ words',fr:'1 h · 25 pts · 250 mots min.'}},{p:'po',d:{ko:'준비 30분 · 20분 · 25점 · 발표+토론',en:'prep 30 min · 20 min · 25 pts',fr:'prép. 30 min · 20 min · 25 pts'}}]};
